@@ -1,0 +1,15 @@
+D:\React\backend\src\Core\Ecommerce.Application\bin\Debug\net7.0\Ecommerce.Application.deps.json
+D:\React\backend\src\Core\Ecommerce.Application\bin\Debug\net7.0\Ecommerce.Application.dll
+D:\React\backend\src\Core\Ecommerce.Application\bin\Debug\net7.0\Ecommerce.Application.pdb
+D:\React\backend\src\Core\Ecommerce.Application\bin\Debug\net7.0\Ecommerce.Domain.dll
+D:\React\backend\src\Core\Ecommerce.Application\bin\Debug\net7.0\Ecommerce.Domain.pdb
+D:\React\backend\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.csproj.AssemblyReference.cache
+D:\React\backend\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\React\backend\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.AssemblyInfoInputs.cache
+D:\React\backend\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.AssemblyInfo.cs
+D:\React\backend\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.csproj.CoreCompileInputs.cache
+D:\React\backend\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.csproj.CopyComplete
+D:\React\backend\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.dll
+D:\React\backend\src\Core\Ecommerce.Application\obj\Debug\net7.0\refint\Ecommerce.Application.dll
+D:\React\backend\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.pdb
+D:\React\backend\src\Core\Ecommerce.Application\obj\Debug\net7.0\ref\Ecommerce.Application.dll
