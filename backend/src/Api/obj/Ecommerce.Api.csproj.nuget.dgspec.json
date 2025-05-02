@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\React\\backend\\src\\Api\\Ecommerce.Api.csproj": {}
+    "D:\\Curso React\\backend\\src\\Api\\Ecommerce.Api.csproj": {}
   },
   "projects": {
-    "D:\\React\\backend\\src\\Api\\Ecommerce.Api.csproj": {
+    "D:\\Curso React\\backend\\src\\Api\\Ecommerce.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\React\\backend\\src\\Api\\Ecommerce.Api.csproj",
+        "projectUniqueName": "D:\\Curso React\\backend\\src\\Api\\Ecommerce.Api.csproj",
         "projectName": "Ecommerce.Api",
-        "projectPath": "D:\\React\\backend\\src\\Api\\Ecommerce.Api.csproj",
+        "projectPath": "D:\\Curso React\\backend\\src\\Api\\Ecommerce.Api.csproj",
         "packagesPath": "C:\\Users\\hernandezmm\\.nuget\\packages\\",
-        "outputPath": "D:\\React\\backend\\src\\Api\\obj\\",
+        "outputPath": "D:\\Curso React\\backend\\src\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\React\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
-                "projectPath": "D:\\React\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj"
+              "D:\\Curso React\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+                "projectPath": "D:\\Curso React\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj"
               },
-              "D:\\React\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj": {
-                "projectPath": "D:\\React\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj"
+              "D:\\Curso React\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj": {
+                "projectPath": "D:\\Curso React\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "D:\\React\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+    "D:\\Curso React\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\React\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
+        "projectUniqueName": "D:\\Curso React\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
         "projectName": "Ecommerce.Application",
-        "projectPath": "D:\\React\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
+        "projectPath": "D:\\Curso React\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
         "packagesPath": "C:\\Users\\hernandezmm\\.nuget\\packages\\",
-        "outputPath": "D:\\React\\backend\\src\\Core\\Ecommerce.Application\\obj\\",
+        "outputPath": "D:\\Curso React\\backend\\src\\Core\\Ecommerce.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -113,8 +113,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\React\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
-                "projectPath": "D:\\React\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj"
+              "D:\\Curso React\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
+                "projectPath": "D:\\Curso React\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "D:\\React\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
+    "D:\\Curso React\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\React\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+        "projectUniqueName": "D:\\Curso React\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
         "projectName": "Ecommerce.Domain",
-        "projectPath": "D:\\React\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+        "projectPath": "D:\\Curso React\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
         "packagesPath": "C:\\Users\\hernandezmm\\.nuget\\packages\\",
-        "outputPath": "D:\\React\\backend\\src\\Core\\Ecommerce.Domain\\obj\\",
+        "outputPath": "D:\\Curso React\\backend\\src\\Core\\Ecommerce.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -218,14 +218,14 @@
         }
       }
     },
-    "D:\\React\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj": {
+    "D:\\Curso React\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\React\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Curso React\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
         "projectName": "Ecommerce.Infrastructure",
-        "projectPath": "D:\\React\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
+        "projectPath": "D:\\Curso React\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\hernandezmm\\.nuget\\packages\\",
-        "outputPath": "D:\\React\\backend\\src\\Infrastructure\\obj\\",
+        "outputPath": "D:\\Curso React\\backend\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -247,8 +247,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\React\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
-                "projectPath": "D:\\React\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj"
+              "D:\\Curso React\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+                "projectPath": "D:\\Curso React\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj"
               }
             }
           }

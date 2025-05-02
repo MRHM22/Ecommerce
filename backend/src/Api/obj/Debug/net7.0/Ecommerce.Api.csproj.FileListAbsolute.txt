@@ -37,3 +37,47 @@ D:\React\backend\src\Api\obj\Debug\net7.0\refint\Ecommerce.Api.dll
 D:\React\backend\src\Api\obj\Debug\net7.0\Ecommerce.Api.pdb
 D:\React\backend\src\Api\obj\Debug\net7.0\Ecommerce.Api.genruntimeconfig.cache
 D:\React\backend\src\Api\obj\Debug\net7.0\ref\Ecommerce.Api.dll
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\appsettings.Development.json
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\appsettings.json
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\Ecommerce.Api.exe
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\Ecommerce.Api.deps.json
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\Ecommerce.Api.runtimeconfig.json
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\Ecommerce.Api.dll
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\Ecommerce.Api.pdb
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\Ecommerce.Application.dll
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\Ecommerce.Domain.dll
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\Ecommerce.Infrastructure.dll
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\Ecommerce.Application.pdb
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\Ecommerce.Infrastructure.pdb
+D:\Curso React\backend\src\Api\bin\Debug\net7.0\Ecommerce.Domain.pdb
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\Ecommerce.Api.csproj.AssemblyReference.cache
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\Ecommerce.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\Ecommerce.Api.AssemblyInfoInputs.cache
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\Ecommerce.Api.AssemblyInfo.cs
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\Ecommerce.Api.csproj.CoreCompileInputs.cache
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\Ecommerce.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\Ecommerce.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.Ecommerce.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Ecommerce.Api.props
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce.Api.props
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ecommerce.Api.props
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\staticwebassets.build.json
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\staticwebassets.development.json
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\scopedcss\bundle\Ecommerce.Api.styles.css
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\Ecommerce.Api.csproj.CopyComplete
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\Ecommerce.Api.dll
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\refint\Ecommerce.Api.dll
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\Ecommerce.Api.pdb
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\Ecommerce.Api.genruntimeconfig.cache
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\ref\Ecommerce.Api.dll

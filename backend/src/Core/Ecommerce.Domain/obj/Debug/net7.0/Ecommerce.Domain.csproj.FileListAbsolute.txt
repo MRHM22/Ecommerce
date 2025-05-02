@@ -10,3 +10,15 @@ D:\React\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.dll
 D:\React\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\refint\Ecommerce.Domain.dll
 D:\React\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.pdb
 D:\React\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\ref\Ecommerce.Domain.dll
+D:\Curso React\backend\src\Core\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.deps.json
+D:\Curso React\backend\src\Core\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.dll
+D:\Curso React\backend\src\Core\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.pdb
+D:\Curso React\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.csproj.AssemblyReference.cache
+D:\Curso React\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso React\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.AssemblyInfoInputs.cache
+D:\Curso React\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.AssemblyInfo.cs
+D:\Curso React\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+D:\Curso React\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.dll
+D:\Curso React\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\refint\Ecommerce.Domain.dll
+D:\Curso React\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.pdb
+D:\Curso React\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\ref\Ecommerce.Domain.dll

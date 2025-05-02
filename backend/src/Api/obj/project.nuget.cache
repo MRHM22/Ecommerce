@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VrXdMVfRRCPaY5GT4Lg82BfsGNsjJrcwevHEmrST3HcZ0CwNdHubcaQvLycBi1r7F7zmCWV7z8ctvnxJFU6DUQ==",
+  "dgSpecHash": "32sHWsN+8dOfNeBry7vb89iRKrm0dCTeOJ3OBUZcuKtDhhW7EU6OujdPWA6ifVlUCtw4BgA9EutefxE4/v/EPA==",
   "success": true,
-  "projectFilePath": "D:\\React\\backend\\src\\Api\\Ecommerce.Api.csproj",
+  "projectFilePath": "D:\\Curso React\\backend\\src\\Api\\Ecommerce.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hernandezmm\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\hernandezmm\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
