@@ -11,4 +11,5 @@ public class Review : BaseDomainModel
     [Column(TypeName = "NVARCHAR(4000)")]
     public string? Comentario { get; set; }
     public int ProductId { get; set; }
+    public virtual Product? Product { get; set; }
 }
