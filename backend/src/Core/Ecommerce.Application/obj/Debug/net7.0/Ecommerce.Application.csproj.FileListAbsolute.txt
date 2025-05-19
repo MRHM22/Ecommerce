@@ -28,3 +28,5 @@ D:\Curso React\backend\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce
 D:\Curso React\backend\src\Core\Ecommerce.Application\obj\Debug\net7.0\refint\Ecommerce.Application.dll
 D:\Curso React\backend\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.pdb
 D:\Curso React\backend\src\Core\Ecommerce.Application\obj\Debug\net7.0\ref\Ecommerce.Application.dll
+D:\Curso React\backend\src\Core\Ecommerce.Application\bin\Debug\net7.0\Ecommerce.Application.runtimeconfig.json
+D:\Curso React\backend\src\Core\Ecommerce.Application\obj\Debug\net7.0\Ecommerce.Application.genruntimeconfig.cache

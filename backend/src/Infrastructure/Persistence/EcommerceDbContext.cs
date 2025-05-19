@@ -1,4 +1,5 @@
 using Ecommerce.Domain;
+using Ecommerce.Domain.Common;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
@@ -10,6 +11,27 @@ public class EcommerceDbContext : IdentityDbContext<Usuario>
     public EcommerceDbContext(DbContextOptions<EcommerceDbContext> options): base(options)
     {
 
+    }
+
+    public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
+    {
+        var userName = "System";
+
+        foreach (var entry in ChangeTracker.Entries<BaseDomainModel>())
+        {
+            switch (entry.State)
+            {
+                case EntityState.Added:
+                    entry.Entity.CreatedDate = DateTime.Now;
+                    entry.Entity.CreatedBy = userName;
+                    break;
+                case EntityState.Modified:
+                    entry.Entity.LastModifiedDate = DateTime.Now;
+                    entry.Entity.LastModifiedBy = userName;
+                    break;
+            }
+        }
+        return base.SaveChangesAsync(cancellationToken);
     }
 
     protected override void OnModelCreating(ModelBuilder builder)
@@ -29,7 +51,7 @@ public class EcommerceDbContext : IdentityDbContext<Usuario>
             .HasForeignKey(r => r.ProductId)
             .IsRequired()
             .OnDelete(DeleteBehavior.Cascade);
-        
+
         builder.Entity<Product>()
             .HasMany(p => p.Images)
             .WithOne(r => r.Product)
