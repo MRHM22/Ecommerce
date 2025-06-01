@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZNVo0/2H0MAMOOETq4tZp5OHEC1s8+I4bUeMm73HZx0yxvf5B0TXzt429AIX2v/igHgi8lx/VIwKZGVkPvx3xQ==",
+  "dgSpecHash": "BKHc8GMOZvo6zj+H8fpAIrk+x2Cx9qoqLSeytFhP+W1Ac6jvp8EXcvUfGnaMl3Ppp8IR+AUUux0nq64gQz/DOw==",
   "success": true,
   "projectFilePath": "D:\\Curso React\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,8 @@
     "C:\\Users\\hernandezmm\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\hernandezmm\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\hernandezmm\\.nuget\\packages\\cloudinarydotnet\\1.20.0\\cloudinarydotnet.1.20.0.nupkg.sha512",
+    "C:\\Users\\hernandezmm\\.nuget\\packages\\fluentemail.core\\3.0.2\\fluentemail.core.3.0.2.nupkg.sha512",
+    "C:\\Users\\hernandezmm\\.nuget\\packages\\fluentemail.smtp\\3.0.2\\fluentemail.smtp.3.0.2.nupkg.sha512",
     "C:\\Users\\hernandezmm\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
     "C:\\Users\\hernandezmm\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
     "C:\\Users\\hernandezmm\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.4.0\\fluentvalidation.dependencyinjectionextensions.11.4.0.nupkg.sha512",

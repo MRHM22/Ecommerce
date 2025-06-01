@@ -27,10 +27,10 @@ D:\Curso React\backend\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastruct
 D:\Curso React\backend\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.AssemblyInfoInputs.cache
 D:\Curso React\backend\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.AssemblyInfo.cs
 D:\Curso React\backend\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.csproj.CoreCompileInputs.cache
-D:\Curso React\backend\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.csproj.CopyComplete
 D:\Curso React\backend\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.dll
 D:\Curso React\backend\src\Infrastructure\obj\Debug\net7.0\refint\Ecommerce.Infrastructure.dll
 D:\Curso React\backend\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.pdb
 D:\Curso React\backend\src\Infrastructure\obj\Debug\net7.0\ref\Ecommerce.Infrastructure.dll
 D:\Curso React\backend\src\Infrastructure\bin\Debug\net7.0\Ecommerce.Infrastructure.runtimeconfig.json
 D:\Curso React\backend\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.genruntimeconfig.cache
+D:\Curso React\backend\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.csproj.CopyComplete

@@ -75,7 +75,6 @@ D:\Curso React\backend\src\Api\obj\Debug\net7.0\staticwebassets.pack.json
 D:\Curso React\backend\src\Api\obj\Debug\net7.0\staticwebassets.build.json
 D:\Curso React\backend\src\Api\obj\Debug\net7.0\staticwebassets.development.json
 D:\Curso React\backend\src\Api\obj\Debug\net7.0\scopedcss\bundle\Ecommerce.Api.styles.css
-D:\Curso React\backend\src\Api\obj\Debug\net7.0\Ecommerce.Api.csproj.CopyComplete
 D:\Curso React\backend\src\Api\obj\Debug\net7.0\Ecommerce.Api.dll
 D:\Curso React\backend\src\Api\obj\Debug\net7.0\refint\Ecommerce.Api.dll
 D:\Curso React\backend\src\Api\obj\Debug\net7.0\Ecommerce.Api.pdb
@@ -137,3 +136,4 @@ D:\Curso React\backend\src\api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.De
 D:\Curso React\backend\src\api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 D:\Curso React\backend\src\api\bin\Debug\net7.0\Mono.TextTemplating.dll
 D:\Curso React\backend\src\api\bin\Debug\net7.0\System.CodeDom.dll
+D:\Curso React\backend\src\Api\obj\Debug\net7.0\Ecommerce.Api.csproj.CopyComplete
