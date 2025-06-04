@@ -20,14 +20,14 @@ public static class InfrastructureServiceRegistration
     {
         services.AddScoped<IUnitOfWork, UnitOfWork>();
         services.AddScoped(typeof(IAsyncRepository<>), typeof(RepositoryBase<>));
-
+        
         
         services.AddTransient<IAuthService, AuthService>();
 
         services.Configure<JwtSettings>(configuration.GetSection("JwtSettings"));
         services.Configure<CloudinarySettings>(configuration.GetSection("CloudinarySettings"));
        
-        services.AddTransient<IEmailService, EmailService>();
+        services.AddScoped<IEmailService, EmailService>();
 
         return services;
     }

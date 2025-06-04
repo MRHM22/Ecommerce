@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4nV0oJYhbTgMyxmmS21oh1MuG2wkJYlFTtzvMhJfgg5O2v0RP8f8L3Jk7AqzuAVq94Y8QTBI8eXI77VZ+1LIIQ==",
+  "dgSpecHash": "V84PeoVcz9b26FLvreRC4t+x8ISq4hU1/it09VG2v2ogkSiNBGhuFTrVtBtrS2x5vRCIsdi/ZL/exohmBoVfGA==",
   "success": true,
-  "projectFilePath": "D:\\Curso React\\backend\\src\\Api\\Ecommerce.Api.csproj",
+  "projectFilePath": "D:\\Curso React\\backend\\src\\api\\Ecommerce.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hernandezmm\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\hernandezmm\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
