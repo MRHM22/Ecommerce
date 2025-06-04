@@ -26,7 +26,7 @@ public class TestControlles : ControllerBase
             Subject = "Cambiar clave",
         };
 
-        var result = await this.emailService.SendEmailAsync(message, "Este_es_mi_token");
+        var result = await this.emailService.SendEmailAsync(message, "token22");
         return result ? Ok() : BadRequest();
     }
 }

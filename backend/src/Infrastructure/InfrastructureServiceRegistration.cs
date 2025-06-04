@@ -23,11 +23,11 @@ public static class InfrastructureServiceRegistration
         
         
         services.AddTransient<IAuthService, AuthService>();
-
         services.Configure<JwtSettings>(configuration.GetSection("JwtSettings"));
         services.Configure<CloudinarySettings>(configuration.GetSection("CloudinarySettings"));
        
-        services.AddScoped<IEmailService, EmailService>();
+        
+        services.AddTransient<IEmailService, EmailService>();
 
         return services;
     }
