@@ -136,4 +136,6 @@ D:\Curso React\backend\src\api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.De
 D:\Curso React\backend\src\api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 D:\Curso React\backend\src\api\bin\Debug\net7.0\Mono.TextTemplating.dll
 D:\Curso React\backend\src\api\bin\Debug\net7.0\System.CodeDom.dll
+D:\Curso React\backend\src\api\bin\Debug\net7.0\FluentEmail.Core.dll
+D:\Curso React\backend\src\api\bin\Debug\net7.0\FluentEmail.Smtp.dll
 D:\Curso React\backend\src\Api\obj\Debug\net7.0\Ecommerce.Api.csproj.CopyComplete
