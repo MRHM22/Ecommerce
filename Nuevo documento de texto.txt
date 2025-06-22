@@ -1,0 +1,10 @@
+dotnet --info
+dotnet build 
+dotnte new sln --name nombre
+mkdir src
+dotnet new classlib -o ruta  --name nombre
+dotnte new webapi -o ruta --name nombre
+
+dotnet sln add ruta .csproj
+
+dotnet add rut.csproj reference ruta.csproj

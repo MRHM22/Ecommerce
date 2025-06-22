@@ -1,5 +1,6 @@
 using Ecommerce.Application.Contracts.Infrastructure;
 using Ecommerce.Application.Identity;
+using Ecommerce.Application.Models.Email;
 using Ecommerce.Application.Models.ImageManagement;
 using Ecommerce.Application.Models.Token;
 using Ecommerce.Application.Persistence;
@@ -21,13 +22,14 @@ public static class InfrastructureServiceRegistration
         services.AddScoped<IUnitOfWork, UnitOfWork>();
         services.AddScoped(typeof(IAsyncRepository<>), typeof(RepositoryBase<>));
         
-        
+        services.AddTransient<IEmailService, EmailService>();
         services.AddTransient<IAuthService, AuthService>();
+
         services.Configure<JwtSettings>(configuration.GetSection("JwtSettings"));
         services.Configure<CloudinarySettings>(configuration.GetSection("CloudinarySettings"));
-       
+        services.Configure<EmailSettings>(configuration.GetSection("EmailSettings"));
         
-        services.AddTransient<IEmailService, EmailService>();
+       
 
         return services;
     }
