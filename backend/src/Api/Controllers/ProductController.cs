@@ -3,7 +3,7 @@ using Ecommerce.Application.Features.Products.Queries.GetProductById;
 using Ecommerce.Application.Features.Products.Queries.GetProductList;
 using Ecommerce.Application.Features.Products.Queries.PaginationProductsQuery;
 using Ecommerce.Application.Features.Products.Queries.Vms;
-using Ecommerce.Application.Features.Sahered.Queries;
+using Ecommerce.Application.Features.Shared.Queries;
 using Ecommerce.Domain;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;

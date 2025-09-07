@@ -1,6 +1,6 @@
 using AutoMapper;
 using Ecommerce.Application.Features.Products.Queries.Vms;
-using Ecommerce.Application.Features.Sahered.Queries;
+using Ecommerce.Application.Features.Shared.Queries;
 using Ecommerce.Application.Persistence;
 using Ecommerce.Application.Specifications.Products;
 using Ecommerce.Domain;

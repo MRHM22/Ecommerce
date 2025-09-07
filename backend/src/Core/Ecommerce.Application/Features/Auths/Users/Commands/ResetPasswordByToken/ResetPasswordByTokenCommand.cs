@@ -1,6 +1,6 @@
 using MediatR;
 
-namespace Ecommerce.Application.Features.Auths.Users.Commands.SendPassword;
+namespace Ecommerce.Application.Features.Auths.Users.Commands.ResetPasswordByToken;
 
 public class ResetPasswordByTokenCommand : IRequest<string>
 {

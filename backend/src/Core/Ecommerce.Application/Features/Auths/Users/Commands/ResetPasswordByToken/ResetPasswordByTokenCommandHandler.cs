@@ -4,7 +4,7 @@ using Ecommerce.Domain;
 using MediatR;
 using Microsoft.AspNetCore.Identity;
 
-namespace Ecommerce.Application.Features.Auths.Users.Commands.SendPassword;
+namespace Ecommerce.Application.Features.Auths.Users.Commands.ResetPasswordByToken;
 
 public class ResetPasswordByTokenCommandHandler : IRequestHandler<ResetPasswordByTokenCommand, string>
 {
