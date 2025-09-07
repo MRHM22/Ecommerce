@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Curso React\\backend\\src\\api\\Ecommerce.Api.csproj": {}
+    "D:\\Curso React\\backend\\src\\Api\\Ecommerce.Api.csproj": {}
   },
   "projects": {
-    "D:\\Curso React\\backend\\src\\api\\Ecommerce.Api.csproj": {
+    "D:\\Curso React\\backend\\src\\Api\\Ecommerce.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Curso React\\backend\\src\\api\\Ecommerce.Api.csproj",
+        "projectUniqueName": "D:\\Curso React\\backend\\src\\Api\\Ecommerce.Api.csproj",
         "projectName": "Ecommerce.Api",
-        "projectPath": "D:\\Curso React\\backend\\src\\api\\Ecommerce.Api.csproj",
+        "projectPath": "D:\\Curso React\\backend\\src\\Api\\Ecommerce.Api.csproj",
         "packagesPath": "C:\\Users\\hernandezmm\\.nuget\\packages\\",
-        "outputPath": "D:\\Curso React\\backend\\src\\api\\obj\\",
+        "outputPath": "D:\\Curso React\\backend\\src\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
