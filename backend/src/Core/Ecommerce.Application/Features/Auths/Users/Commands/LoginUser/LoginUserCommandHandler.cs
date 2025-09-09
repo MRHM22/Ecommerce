@@ -48,7 +48,7 @@ public class LoginUserCommandHandler : IRequestHandler<LoginUserCommand, AuthRes
         var AuthResponse = new AuthResponse
         {
             Id = user.Id,
-            Nomnbre = user.Nombre,
+            Nombre = user.Nombre,
             Apellido = user.Apellido,
             Telefono = user.Telefono,
             Username = user.UserName,

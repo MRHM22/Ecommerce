@@ -42,7 +42,7 @@ public class UpdateUserCommandHandler : IRequestHandler<UpdateUserCommand, AuthR
         return new AuthResponse
         {
             Id = userById!.Id,
-            Nomnbre = userById.Nombre,
+            Nombre = userById.Nombre,
             Apellido = userById.Apellido,
             Email = userById.Email,
             Telefono = userById.Telefono,

@@ -47,7 +47,7 @@ public class RegisterUserCommandHandler : IRequestHandler<RegisterUserCommand, A
             return new AuthResponse
             {
                 Id = usuario.Id,
-                Nomnbre = usuario.Nombre,
+                Nombre = usuario.Nombre,
                 Apellido = usuario.Apellido,
                 Telefono = usuario.Telefono,
                 Username = usuario.UserName,

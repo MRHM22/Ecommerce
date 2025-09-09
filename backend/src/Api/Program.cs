@@ -6,7 +6,6 @@ using Ecommerce.Application;
 using Ecommerce.Application.Contracts.Infrastructure;
 using Ecommerce.Application.Features.Products.Queries.GetProductList;
 using Ecommerce.Domain;
-using Ecommerce.Infrastructure;
 using Ecommerce.Infrastructure.ImageCloudinary;
 using Ecommerce.Infrastructure.Persistence;
 using MediatR;
